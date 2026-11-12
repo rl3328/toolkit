@@ -1,0 +1,1 @@
+This notebook directory contains records about what I have learned from the meeting with Ru. Its main purpose is for learning and review for a freshmen in bioinformatics. I will keep it in detail but might not concise for the experienced. 
